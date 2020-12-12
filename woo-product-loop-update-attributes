@@ -1,0 +1,2 @@
+global $product;
+echo '<div class="condition-' . $size = array_shift( wc_get_product_terms( $product->id, 'pa_condition', array( 'fields' => 'names' ) ) ) . '">' . $size = array_shift( wc_get_product_terms( $product->id, 'pa_condition', array( 'fields' => 'names' ) ) ) . '</div>';
